@@ -51,10 +51,6 @@ For a complete Laravel 12 installation:
 5. Run `php artisan serve`.
 6. Visit `http://127.0.0.1:8000`.
 
-## Screenshots
-
-Screenshots of the application pages, migrations, seeders, and Eloquent queries are available in the `screenshots/` folder.
-
 ## Note
 
 The Welcome page filters tasks using the current date. The Task List page retrieves all tasks ordered by date.
